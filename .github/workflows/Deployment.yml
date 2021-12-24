@@ -30,7 +30,7 @@ jobs:
         run: yarn install
 
       - name: Test unit
-        rutn: yarn test:unit
+        run: yarn test:unit
 
       - name: Build page
         run: yarn build
